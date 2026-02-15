@@ -53,11 +53,11 @@ section {
   color: #212529;
 }
 
-.layer {
+/* .layer {
   position: absolute;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.1);
-}
+} */
 
 /*Header*/
 header {
@@ -971,4 +971,5 @@ footer .footer-copyright .links a {
   #team .card {
     flex: 0 0 48%;
   }
+
 }
